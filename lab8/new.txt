@@ -1,0 +1,51 @@
+﻿After the plan for an information system is approved, it’s time to start building it. During the implementation phase, an organization puts together the hardware and software for the new information system.
+What happens during the implementation phase? 
+During the implementation phase of the SDLC, the project team control the tasks, necessary to creat the new information system. The tasks can include:
+Purchase hardware/software
+Create applications
+Test applications
+Finalize documentation
+Train users
+Convert data
+Initiate new system
+How does the team acquire software and hardware?
+As the implementation phase begins, programming languages, development tools, and application software needed for the new information system are purchased, installed, and tested to ensure that they work correctly.
+Testing might also reveal bugs in the software.
+(During the implementation phase, new hardware and software is purchased, installed, and tested to ensure that it operates correctly.)
+What’s the next step in the implementation phase? 
+After hardware and software are set up and tested, the next step depends on the software tools selected for the project.
+When the software for an information system is created by using a programming language, programmers must create and test all the new software modules.
+When an information system is constructed using application software, the software sometimes must be customized. That is the process of modifying a commercial application to reflect an organization’s needs. 
+How can the team ensure that a new information system works? 
+A testing process is the only way to make sure a new information system works correctly. 
+Application testing is the process of trying out various input values and checking the results to verify that the application works as it was designed. 
+Application testing is performed in three ways: unit testing, integration testing, and system testing.
+Unit testing ensures that each module of the application software works correctly.
+Integration testing ensures that all the modules work together correctly.
+System testing ensures that new modules work with the rest of the system hardware and software.
+
+
+
+DOCUMENTATION AND TRAINING
+One of the most important tasks is to make sure the information system is completely documented, so that it can be used effectively and modified easily.
+What kinds of documentation are required? 
+There are 2 types of documentation: system documentation and user documentation.
+System documentation includes a system’s features, hardware architecture, and programming. The target audiences for system documentation are programmers, designers, and system analysts. At the end, these documents should be recheck because features sometimes change.
+User documentation include topics about how to interact with the system to complete specific tasks. It includes a list of features and instructions for using them. The target audiences for user documentation are workers, employees, managers.
+How do employees learn how to use a new information system? 
+For using a new information system, users generally need training on software use, data entry, hardware operation, backup procedures.
+During training sessions, users learn how to interact with the interface, use the new system to perform day-to-day tasks, and find additional information in user manuals, procedure handbooks, or video tutorials.
+A procedure handbook is a type of user documentation that contains step-by-step instructions for performing specific tasks.
+
+CONVERSION AND CUTOVER
+Planning is crucial for a successful transition to a new information system.
+What happens to data from the old system? 
+The data for a new information system might stored in card files, file folders, or an old information system. This data must be loaded into the new system — a process called data conversion. A programmer can write conversion software to convert existing data into a format that is usable by the new system. 
+What are the “go live” options? 
+System conversion refers to the process of deactivating an old information system and activating a new one. 
+Direct conversion is a cutover method that completely deactivates the old system and immediately activates the new system. 
+Parallel - the old system remains in service while all of the new system is activated. Both the old and new systems operate in parallel.
+Phased conversion - the new system is activated one module at a time. After the project team determines that one module is working correctly, the next module is activated, and so on.
+Pilot conversion - the new information system is activated one branch at a time. If the new system works correctly at one branch, it is activated at the next branch.
+When is the new information system formally “live”? 
+A new information system passes a final test called acceptance testing. Acceptance testing is designed to verify that the new information system works as required
